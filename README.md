@@ -1,6 +1,11 @@
 # PopcornCounter
 a dumb thing to count how many buckets of popcorn you've eaten while watching drama, like discord shitshows :^)
 
+Things I used:
+WinUI 2.6 UWP
+Visual Studio 2019
+my loss of sanity over self signing certificates
+
 Instructions on how to install on:
 
 Windows 10:
