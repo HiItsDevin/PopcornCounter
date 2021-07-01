@@ -1,5 +1,7 @@
 # PopcornCounter
-a dumb thing to count how many buckets of popcorn you've eaten while watching drama, like discord shitshows :^)
+a dumb thing to count how many buckets of popcorn you've eaten while watching drama, like discord shitshows :^).
+
+To be clear: I will **not** be updating this app unless it's absolutely required. this is purely a **joke** project.
 
 Things I used:
 - WinUI 2.6 UWP
