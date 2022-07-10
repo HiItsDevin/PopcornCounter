@@ -34,13 +34,11 @@ div {
 
 .popcorn {
     margin-top: -128px;
-    //width: 50%;
     text-align: center;
 }
 
 .popcorn::after {
     content: "\1F37F";
-    /* CSS Pseudo-elements escape some characters that's why the unicode 'U+1F36E' is converted to '\1F36E' */
     font-size: 256px;
 }
 </style>
